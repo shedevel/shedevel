@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shedevel 
-- 👀 I’m interested in so many things; data mining and data bias, fair and ethical algorithms, color theory, usability, readable code and coding for everyone.
+- 👀 I’m interested in becoming a really good developer and finding my sweet spot in tech!
 - 🌱 I’m currently learning frontend technologies such as Node.js, React and Next.js
-- 💞️ I’m not currently looking to collaborate on projects, but anything to support equality and fairness would probably get me interested...
+- 💞️ I’m not currently looking to collaborate on projects, but anything to support equality and fairness would probably get me interested!
 - 📫 You can reach me at codebyrd@outlook.com
 
 <!---
